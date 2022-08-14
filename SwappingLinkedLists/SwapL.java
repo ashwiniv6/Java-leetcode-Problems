@@ -24,7 +24,7 @@ The number of nodes in the list is n.
 1 <= k <= n <= 105
 0 <= Node.val <= 100
  */
-
+/*
 public class SwapL {
     /**
      * Definition for singly-linked list.
@@ -37,7 +37,7 @@ public class SwapL {
      * }
      */
 
-        public ListNode swapNodes(ListNode head, int k) {
+        public <ListNode> ListNode swapNodes(ListNode head, int k) {
 
 
             if( head == null)
@@ -77,7 +77,7 @@ public class SwapL {
 
 
 }
-
+*/
 /*
 Explanation:
 
